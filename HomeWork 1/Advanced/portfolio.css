@@ -1,6 +1,7 @@
 body {
     background: lightgray;
     box-sizing: border-box;
+    background-image: url("Images/tiny-squares.png");
 }
 
 header {
